@@ -1,0 +1,1 @@
+# lefthook-git-hooks-folder-bug
