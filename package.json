@@ -1,0 +1,24 @@
+{
+  "name": "lefthook-git-hooks-folder-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier --write index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srkimir/lefthook-git-hooks-folder-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srkimir/lefthook-git-hooks-folder-bug/issues"
+  },
+  "homepage": "https://github.com/srkimir/lefthook-git-hooks-folder-bug#readme",
+  "devDependencies": {
+    "lefthook": "^1.3.0",
+    "prettier": "^2.8.4"
+  }
+}
